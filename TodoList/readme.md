@@ -32,18 +32,19 @@ Tailwind CSS: For styling the application
 
 Screenshots
 
-
-![Screenshot (19)](https://github.com/user-attach
-
+![Screenshot (19)](https://github.com/user-attachments/assets/e2b5dd9b-12fd-4f9b-850f-9df4038dba4a)
 
 
 
 
-![Screenshot (20)](https://github.com/user-attachments/assets/3da667fb-2827-4772-916d-fcf3e2d42924)
-ments/assets/da9aa3c3-a139-4e72-b15e-7422920b0f1b)
+![Screenshot (20)](https://github.com/user-attachments/assets/22b1171d-9015-4963-97a4-04d8a5274ece)
+
+
+
+
+![Screenshot (21)](https://github.com/user-attachments/assets/1558008d-9ae3-4355-9031-6a3b997a898f)
 
 
 
 
 
-![Screenshot (21)](https://github.com/user-attachments/assets/7009e916-4342-4690-985b-46f5e5d77a38)
